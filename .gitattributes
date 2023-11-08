@@ -61,3 +61,10 @@
 #*.PDF   diff=astextplain
 #*.rtf   diff=astextplain
 #*.RTF   diff=astextplain
+
+###############################################################################
+# Custom attributes
+###############################################################################
+*.cs linguist-detectable=true
+*.html linguist-detectable=false
+*.css linguist-detectable=false
