@@ -2,7 +2,7 @@
 
 This is a complete application built with ASP.NET and C# Programming Language. It's a Hospital Management System named HospitalMS.
 
-## Features
+## Tech Stack
 
 - **ASP.Net Core**: Used for building .Net web applications.
 - **C# Programming Language**: The main language used in this project.
